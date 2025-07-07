@@ -5,9 +5,9 @@ This repository documents my progress as I explore the fundamentals of web devel
 
 ---
 
-## ✨ About Me
+## About Me
 
-👋 I'm **Mbali**, an aspiring front-end developer on a mission to master the language of the web. This space is where I track what I’ve learned, share small projects, and reflect on my progress.
+ I'm **Mbali**, an aspiring front-end developer on a mission to master the language of the web. This space is where I track what I’ve learned, share small projects, and reflect on my progress.
 
 ---
 
